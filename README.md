@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on <a href="https://byteguide1-79d2e3e13680.herokuapp.com/">ByteGuide</a> and <a href="https://www.greenpath.bio">GreenPath</a>.<br>🤝 I'm looking for work where I train further and grow my front end development skills.<br>🌱 I'm currently learning React.js, Python, and Figma.<br>💬 Ask me about web3 and Ethereum.<br>⚡️ Fun fact: I'm a music and film producer.
+🛠️ I'm currently working on <a href="https://byteguide1-79d2e3e13680.herokuapp.com/">ByteGuide</a> and <a href="https://www.greenpath.bio">GreenPath</a>.<br>🤝 I'm looking for work where I train further and grow my front end development skills.<br>🌱 I'm currently learning React.js, Python, and Figma.<br>💬 Ask me about web3 and Ethereum.<br>⚡️ Fun fact: I'm a music and film producer on the side. 🎧 🎬
 
 
 ## 🌐 Socials:
