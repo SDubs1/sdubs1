@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdubs1" alt="sdubs1" /></a> </p>
 
-- 🛠️ I’m currently working on [ByteGuide](https://byteguide1-79d2e3e13680.herokuapp.com/)
+- 🛠️ I’m currently working on [ByteGuide](https://byteguide1-79d2e3e13680.herokuapp.com/).
 
 - 🌱 I’m currently learning **React.js, Figma, and Python**
 
-- 🛠️ I'm collaborating on [GreenPath.](https://www.greenpath.bio)
+- 🛠️ I'm collaborating on [GreenPath](https://www.greenpath.bio).
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/stdubs](https://linktr.ee/stdubs)
 
