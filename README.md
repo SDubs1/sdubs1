@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web3!**
 
-- 📫 How to reach me **swagner800@protonmail.com**
+- 📫 How to reach me **st.dubs@pm.me**
 
 - 📄 My experience [https://flowcv.com/resume/hgsgu73dor](https://flowcv.com/resume/hgsgu73dor)
 
