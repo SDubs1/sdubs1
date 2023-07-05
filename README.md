@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/stdubs](https://linktr.ee/stdubs)
 
-- 💬 Ask me about **web3!**
+- 💬 Ask me about **web3 and the metaverse**!
 
 - 📫 How to reach me **st.dubs@pm.me**
 
