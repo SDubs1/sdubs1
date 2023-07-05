@@ -5,7 +5,7 @@
 
 - 👷‍♂️ I’m currently working on [ByteGuide](https://byteguide1-79d2e3e13680.herokuapp.com/).
 
-- 🌱 I’m currently learning **Figma, React.js, and Python**
+- 🌱 I’m currently learning **JavaScript, React.js, and Figma**.
 
 - 🛠️ I'm collaborating on [GreenPath](https://www.greenpath.bio).
 
