@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven.</h1>
-<h3 align="center">I'm a junior web developer fresh out of coding school.</h3>
-
-<div align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdubs1" alt="sdubs1" style="max-width: 75%"/></a> </div>
+<h3 align="center">I'm a junior web dev and tech enthusiast.</h3>
 
 - 👷‍♂️ I’m currently working on [ByteGuide](https://byteguide1-79d2e3e13680.herokuapp.com/)
 
-- 🌱 I’m currently learning **JavaScript and Figma**
+- 🌱 I’m currently learning **JavaScript and Svelte**
 
 - 🛠️ I'm collaborating on [GreenPath](https://www.greenpath.bio)
 
