@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **st.dubs@pm.me**
 
-- 📄 My experience [https://flowcv.com/resume/hgsgu73dor](https://flowcv.com/resume/hgsgu73dor)
+- 📄 My experience [https://flowcv.com/resume/1dst70fks8)
 
 - ⚡ Fun fact: **I'm a music and film producer on the side**
 
