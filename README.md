@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Steven.</h1>
-<h3 align="center">I'm a junior web dev and tech enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Steve.</h1>
+<h3 align="center">I'm a creative with a mild enthusiasm for tech.</h3>
 
-- 👷‍♂️ I’m currently working on [ByteGuide](https://byteguide1-79d2e3e13680.herokuapp.com/)
+- 👷‍♂️ I’m currently working as Team Lead in customer support for a PC hardware company.
 
-- 🌱 I’m currently learning **JavaScript and Svelte**
-
-- 🛠️ I'm collaborating on [GreenPath](https://www.greenpath.bio)
+- 🛠️ Building smarter support operations (Zendesk, custom agents, process optimization)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/stdubs](https://linktr.ee/stdubs)
 
-- 💬 Ask me about **web3 and the metaverse**
+- 💬 Ask me about warranty support challenges!
 
 - 📫 How to reach me **st.dubs@pm.me**
 
-- 📄 My experience [https://flowcv.com/resume/1dst70fks8)
-
-- ⚡ Fun fact: **I'm a music and film producer on the side**
+- ⚡ Fun fact: **I'm a music producer/artist on the side**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
